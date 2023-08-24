@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@gomomento/sdk": "^1.34.0",
+    "dotenv": "^16.3.1",
+    "limiter": "^2.1.0",
+    "limiter-es6-compat": "^2.1.2"
+  },
+  "name": "momento-playground",
+  "description": "learn and experiment with [Momento](https://www.gomomento.com/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
