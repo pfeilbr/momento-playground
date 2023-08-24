@@ -4,6 +4,8 @@ learn and experiment with [Momento](https://www.gomomento.com/)
 
 ## demo
 
+see [`index.js`](./index.js)
+
 ```sh
 npm install
 npm start
